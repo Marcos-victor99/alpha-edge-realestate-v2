@@ -1,0 +1,54 @@
+# Sistema de Análise Financeira - Shopping Centers
+# Dependências Python necessárias
+
+# Validação e modelagem de dados
+pydantic>=2.0.0,<3.0.0
+
+# Manipulação de dados (para futuras extensões)
+# pandas>=2.0.0,<3.0.0  # Descomentار se precisar de análises mais complexas
+
+# Utilities para desenvolvimento e debug
+typing-extensions>=4.0.0
+
+# Para formatação de locale (já incluído no Python padrão)
+# locale - built-in
+
+# Para trabalhar com datas (já incluído no Python padrão)  
+# datetime - built-in
+
+# Para cálculos matemáticos e estatísticos (já incluído no Python padrão)
+# statistics - built-in
+# decimal - built-in
+
+# Para serialização JSON (já incluído no Python padrão)
+# json - built-in
+
+# Para argumentos de linha de comando (já incluído no Python padrão)
+# argparse - built-in
+
+# Para tratamento de arquivos e sistema (já incluído no Python padrão)
+# os, sys - built-in
+
+# Dependências opcionais para futuras extensões:
+
+# Para análises estatísticas avançadas
+# numpy>=1.24.0,<2.0.0
+
+# Para visualizações (se implementar gráficos)
+# matplotlib>=3.7.0,<4.0.0
+# plotly>=5.17.0,<6.0.0
+
+# Para exportação de relatórios PDF
+# reportlab>=4.0.0,<5.0.0
+
+# Para manipulação de Excel
+# openpyxl>=3.1.0,<4.0.0
+
+# Para testes unitários
+# pytest>=7.4.0,<8.0.0
+# pytest-cov>=4.1.0,<5.0.0
+
+# Para análise de código
+# black>=23.0.0,<24.0.0
+# flake8>=6.0.0,<7.0.0
+# mypy>=1.5.0,<2.0.0

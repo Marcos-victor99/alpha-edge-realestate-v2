@@ -1,0 +1,108 @@
+{
+  "mcpServers": {
+    "supabase": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@supabase/mcp-server-supabase@latest",        
+        "--project-ref=vdhxtlnadjejyyydmlit"
+      ],
+      "env": {
+        "SUPABASE_ACCESS_TOKEN": "YOUR_SUPABASE_TOKEN_HERE"
+      }
+    },
+    "github": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-github"
+      ],
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "YOUR_GITHUB_TOKEN_HERE"
+      }
+    },
+    "puppeteer": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-puppeteer"
+      ]
+    },
+    "context7": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@upstash/context7-mcp@latest"
+      ]
+    },
+    "playwright": {
+      "command": "npx",
+      "args": [
+        "@playwright/mcp@latest"
+      ]
+    },
+    "mcp-server-chart": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@smithery/cli@latest",
+        "run",
+        "@antvis/mcp-server-chart",
+        "--key",
+        "874afc47-dd9d-4c29-b44b-0ba5d3fc8af9",
+        "--profile",
+        "efficient-finch-q66EWc"
+      ]
+    },
+    "Sentry": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-remote@latest",
+        "https://mcp.sentry.dev/mcp"
+      ]
+    },
+     "magic-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@smithery/cli@latest",
+        "run",
+        "@21st-dev/magic-mcp",
+        "--key",
+        "e54e1a33-fce3-43f9-81b4-ee2f7ecbcb14",
+        "--profile",
+        "continuous-baboon-bXHCSB"
+      ]
+    },
+    "shadcn-ui-mcp-server": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@smithery/cli@latest",
+        "run",
+        "@ymadd/shadcn-ui-mcp-server",
+        "--key",
+        "e54e1a33-fce3-43f9-81b4-ee2f7ecbcb14",
+        "--profile",
+        "continuous-baboon-bXHCSB"
+      ]
+    },
+
+   "ref-tools-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@smithery/cli@latest",
+        "run",
+        "@ref-tools/ref-tools-mcp",
+        "--key",
+        "e54e1a33-fce3-43f9-81b4-ee2f7ecbcb14",
+        "--profile",
+        "continuous-baboon-bXHCSB"
+      ]
+    }
+}
+  }
+
+

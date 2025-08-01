@@ -1,0 +1,92 @@
+================================================================================
+📊 RELATÓRIO EXECUTIVO FINANCEIRO - SHOPPING PARK BOTUCATU
+================================================================================
+Shopping Center: Shopping Park Botucatu
+Período de Referência: Maio/2025 - Dezembro/2025
+Data de Geração: 28/07/2025 18:19
+Score de Saúde Financeira: 44,2%
+
+🎯 RESUMO EXECUTIVO
+--------------------------------------------------
+Situação Geral: Preocupante - Necessita monitoramento próximo
+
+🚨 PRINCIPAIS DESAFIOS:
+   1. KPIs financeiros em estado crítico
+   2. Meses com saldo operacional negativo
+   3. Alta concentração de inadimplência
+
+💡 OPORTUNIDADES IDENTIFICADAS:
+   1. Meses com performance positiva identificados
+   2. Potencial de recuperação de crédito significativo
+
+📈 INDICADORES FINANCEIROS PRINCIPAIS
+--------------------------------------------------
+🟢 Receita Total: R$ 18.9M (BOM)
+   Observação: Valor dentro do esperado
+🔴 Taxa Inadimplencia: 91,4% (CRÍTICO)
+   Observação: Valor muito alto, requer ação imediata
+🔴 Recebidos Atraso: 233,9% (CRÍTICO)
+   Observação: Valor muito alto, requer ação imediata
+🟢 Saldo Projetado Final: 4140012.46 (BOM)
+   Observação: Thresholds não configurados
+🟡 Despesa Total: R$ 16.0M (ATENÇÃO)
+   Observação: Valor acima do ideal, monitorar
+🌟 Saldo Operacional: R$ 2.9M (EXCELENTE)
+   Observação: Valor acima das expectativas
+
+💰 FLUXO DE CAIXA - RESUMO
+--------------------------------------------------
+Total de Créditos: R$ 13.6M
+Total de Débitos: R$ 11.8M
+Saldo Consolidado: R$ 1.8M
+Melhor Mês: Dezembro/2025 (R$ 2.6M)
+Pior Mês: Maio/2025 (-R$ 1.4M)
+
+⚠️  TOP 5 MAIORES INADIMPLENTES
+--------------------------------------------------
+1º. Patroni Pizza: R$ 59.0K
+    Status: CONFISSÃO_DE_DÍVIDA | Risco: MUITO_ALTO
+2º. Claus Sport: R$ 35.0K
+    Status: CONFISSÃO_DE_DÍVIDA | Risco: ALTO
+3º. Aline Sobrino Boutique: R$ 11.7K
+    Status: CONFISSÃO_DE_DÍVIDA | Risco: MÉDIO
+4º. Ivone Store: R$ 2.4K
+    Status: CONFISSÃO_DE_DÍVIDA | Risco: MÉDIO
+
+🧠 INSIGHTS CRÍTICOS
+--------------------------------------------------
+1. Mês Crítico Identificado: Maio/2025
+   O mês de Maio/2025 apresentou saldo operacional de -R$ 1.4M, com múltiplos problemas identificados.
+   Impacto Estimado: R$ 1.4M
+   Ação Principal: Investigar causas específicas dos problemas em Maio/2025
+
+2. Correlação Crítica: Inadimplência vs Fluxo de Caixa
+   Alta inadimplência (R$ 108.1K) correlacionada com 2 meses de saldo negativo indica impacto direto no fluxo operacional.
+   Impacto Estimado: R$ 108.1K
+   Ação Principal: Priorizar recuperação de crédito para melhorar fluxo de caixa
+
+3. Alta Concentração de Inadimplência: Top 3 = 97,7%
+   Os 3 maiores inadimplentes concentram 97,7% do total das dívidas, indicando risco concentrado que requer atenção específica.
+   Impacto Estimado: R$ 105.6K
+   Ação Principal: Foco prioritário na negociação com os 3 maiores devedores
+
+4. Inadimplente Dominante: Patroni Pizza (54,6%)
+   Patroni Pizza representa 54,6% de toda a inadimplência, criando risco operacional significativo.
+   Impacto Estimado: R$ 59.0K
+   Ação Principal: Negociação prioritária e personalizada com Patroni Pizza
+
+🎯 RECOMENDAÇÕES PRIORITÁRIAS
+--------------------------------------------------
+1. Investigar causas específicas dos problemas em Maio/2025
+2. Implementar controles preventivos para evitar recorrência
+3. Priorizar recuperação de crédito para melhorar fluxo de caixa
+4. Implementar política de crédito mais restritiva
+5. Foco prioritário na negociação com os 3 maiores devedores
+6. Estratégias personalizadas para cada caso crítico
+7. Negociação prioritária e personalizada com Patroni Pizza
+8. Análise detalhada da situação financeira do devedor
+
+================================================================================
+📋 Relatório gerado automaticamente pelo Sistema de Análise Financeira
+🏢 Shopping Park Botucatu - 28/07/2025
+================================================================================

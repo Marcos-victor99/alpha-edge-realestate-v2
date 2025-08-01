@@ -1,0 +1,16 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+echo "🔍 Executando verificações pré-commit..."
+
+# Validar imports de ícones Lucide React
+echo "📋 Validando imports de ícones..."
+npm run validate:imports || {
+  echo "❌ Falha na validação de imports. Corrija os erros acima antes de fazer commit."
+  exit 1
+}
+
+# Executar lint-staged
+npx lint-staged
+
+echo "✅ Todas as verificações passaram!"
